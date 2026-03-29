@@ -8,7 +8,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "start:db": "json-server --watch db.json --port 3001",
+    "start:db": "json-server --watch db.json --port 3001 --host 0.0.0.0",
     "tunnel": "cloudflared tunnel --url http://localhost:5173"
   },
   "dependencies": {
