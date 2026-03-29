@@ -40,7 +40,19 @@ export const rule = [
 ];
 
 export const promo = [
-  { id: 1, image: "/assets/banner/download-1.webp", btn: "BEST SELLER" },
-  { id: 2, image: "/assets/banner/download-2.webp", btn: "GOODS/MERCH" },
-  { id: 3, image: "/assets/banner/download-3.webp", btn: "GIFT CARD" },
+  {
+    id: 1,
+    image: "../../public/assets/banner/download-1.webp",
+    btn: "BEST SELLER",
+  },
+  {
+    id: 2,
+    image: "../../public/assets/banner/download-2.webp",
+    btn: "GOODS/MERCH",
+  },
+  {
+    id: 3,
+    image: "../../public/assets/banner/download-3.webp",
+    btn: "GIFT CARD",
+  },
 ];
