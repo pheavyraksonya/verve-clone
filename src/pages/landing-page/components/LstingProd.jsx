@@ -1,7 +1,10 @@
 import useFetch from "../../../hook/useFetch";
 import { getProducts1 } from "../../../redux/feature/product/HitProdSlice";
 const ListingProd = () => {
-  const { data: products } = useFetch((state) => state.HitProd, getProducts1);
+  const { data: products = [] } = useFetch(
+    (state) => state.HitProd,
+    getProducts1,
+  );
   return (
     <section className="bg-secondary mt-0 px-20 pb-24">
       <div className="mx-auto grid w-full max-w-screen-2xl gap-12 grid-cols-[40%_60%] items-start">
