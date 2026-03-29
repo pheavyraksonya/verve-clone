@@ -1,0 +1,429 @@
+{
+  "top-hits-prods": [
+    {
+      "id": 1,
+      "image": "src/assets/top-hits-prods/sermon.webp",
+      "name": "Sermon",
+      "flavor": "Sweet & Balanced",
+      "price": "22 USD"
+    },
+    {
+      "id": 2,
+      "image": "src/assets/top-hits-prods/cosmic-ripple.webp",
+      "name": "Cosmic Ripple",
+      "flavor": "Bright & Complex",
+      "price": "28 USD"
+    },
+    {
+      "id": 3,
+      "image": "src/assets/top-hits-prods/grateful.webp",
+      "name": "Grateful",
+      "flavor": "Sweet & Fruity",
+      "price": "22 USD"
+    },
+    {
+      "id": 4,
+      "image": "src/assets/top-hits-prods/sermon.webp",
+      "name": "Sermon",
+      "flavor": "Sweet & Balanced",
+      "price": "22 USD"
+    },
+    {
+      "id": 5,
+      "image": "src/assets/top-hits-prods/Streetlevel-12oz-Silo-1.webp",
+      "name": "Streetlevel",
+      "flavor": "Sweet & Balanced",
+      "price": "22 USD"
+    },
+    {
+      "id": 6,
+      "image": "src/assets/top-hits-prods/vancouver.webp",
+      "name": "Vancouver",
+      "flavor": "Smooth & Nutty",
+      "price": "22 USD"
+    },
+    {
+      "id": 7,
+      "image": "src/assets/top-hits-prods/download-2.webp",
+      "name": "Wilder",
+      "flavor": "Juicy & Bright",
+      "price": "22 USD"
+    }
+  ],
+
+  "new-arrival": [
+    {
+      "id": 1,
+      "image": "src/assets/new-arrival/download-2.webp",
+      "name": "Wilder Blend",
+      "flavor": "Juicy & Bright",
+      "price": "22 USD"
+    },
+    {
+      "id": 2,
+      "image": "src/assets/new-arrival/download-8.webp",
+      "name": "Colombia Mujeres De Cafe",
+      "flavor": "RED APPLE · CARAMEL · MILK CHOCOLATE",
+      "price": "22 USD"
+    },
+    {
+      "id": 3,
+      "image": "src/assets/new-arrival/download-9.webp",
+      "name": "Colombia Amparo Maya",
+      "flavor": "RED APPLE · PANELA · LIMEADE",
+      "price": "28 USD"
+    },
+    {
+      "id": 4,
+      "image": "src/assets/new-arrival/download-10.webp",
+      "name": "Cosmic Ripple Blend",
+      "flavor": "STARFRUIT · MEYER LEMON · BLACK TEA",
+      "price": "24 USD"
+    },
+    {
+      "id": 5,
+      "image": "src/assets/new-arrival/download-11.webp",
+      "name": "Costa Rica Don Cayito Typica Mejorado White Honey Farmlevel Reserve",
+      "flavor": "STRAWBERRY · LEMON CUSTARD · BLACKBERRY",
+      "price": "34 USD"
+    },
+    {
+      "id": 6,
+      "image": "src/assets/new-arrival/download-12.webp",
+      "name": "Ethiopia Bekele Belaycho Natural",
+      "flavor": "PINEAPPLE · STRAWBERRY · SWEET CREAM",
+      "price": "27.5 USD"
+    },
+    {
+      "id": 7,
+      "image": "src/assets/new-arrival/download-13.webp",
+      "name": "Ethiopia Tuke Yute Anaerobic Natural",
+      "flavor": "·",
+      "price": "27.5 USD"
+    },
+    {
+      "id": 8,
+      "image": "src/assets/new-arrival/download-14.webp",
+      "name": "Honduras El Portillo Natural Parainema",
+      "flavor": "·",
+      "price": "27.5 USD"
+    }
+  ],
+  "essential": [
+    {
+      "id": 1,
+      "image": "src/assets/essential/download-15.webp",
+      "name": "Companion Tumbler",
+      "flavor": "·",
+      "price": "40 USD"
+    },
+    {
+      "id": 2,
+      "image": "src/assets/essential/download-16.webp",
+      "name": "Sunday Tote",
+      "flavor": "·",
+      "price": "30 USD"
+    },
+    {
+      "id": 3,
+      "image": "src/assets/essential/download-17.webp",
+      "name": "Good Catch Cap",
+      "flavor": "·",
+      "price": "30 USD"
+    },
+    {
+      "id": 4,
+      "image": "src/assets/essential/download-18.webp",
+      "name": "Good Catch Mug",
+      "flavor": "·",
+      "price": "30 USD"
+    },
+    {
+      "id": 5,
+      "image": "src/assets/essential/download-19.webp",
+      "name": "Good Energy Tee",
+      "flavor": "·",
+      "price": "40 USD"
+    },
+    {
+      "id": 6,
+      "image": "src/assets/essential/download-20.webp",
+      "name": "Circuit Tumbler",
+      "flavor": "·",
+      "price": "35 USD"
+    },
+    {
+      "id": 7,
+      "image": "src/assets/essential/download-21.webp",
+      "name": "Jet Set Milk Glass",
+      "flavor": "·",
+      "price": "22 USD"
+    },
+    {
+      "id": 8,
+      "image": "src/assets/essential/download-22.webp",
+      "name": "Cosmic Comfort Socks",
+      "flavor": "·",
+      "price": "18 USD"
+    }
+  ],
+  "quality": [
+    {
+      "id": 1,
+      "image": "src/assets/quality/download-23.webp",
+      "name": "Craft Instant Coffee Variety 7 Pack",
+      "flavor": "·",
+      "price": "40 USD"
+    },
+    {
+      "id": 2,
+      "image": "src/assets/quality/download-24.webp",
+      "name": "Morning Brew Craft Instant Coffee 6 Pack",
+      "flavor": "·",
+      "price": "30 USD"
+    },
+    {
+      "id": 3,
+      "image": "src/assets/quality/download-25.webp",
+      "name": "Streetlevel Craft Instant Coffee 6 Pack",
+      "flavor": "·",
+      "price": "30 USD"
+    },
+    {
+      "id": 4,
+      "image": "src/assets/quality/download-26.webp",
+      "name": "Vancouver Decaf Craft Instant Coffee 6 Pack",
+      "flavor": "·",
+      "price": "30 USD"
+    },
+    {
+      "id": 5,
+      "image": "src/assets/quality/download-27.webp",
+      "name": "Aster Craft Instant Coffee 6 Pack",
+      "flavor": "·",
+      "price": "40 USD"
+    },
+    {
+      "id": 6,
+      "image": "src/assets/quality/download-28.webp",
+      "name": "Sermon Craft Instant Coffee 6 Packr",
+      "flavor": "·",
+      "price": "35 USD"
+    },
+    {
+      "id": 7,
+      "image": "src/assets/quality/download-29.webp",
+      "name": "Bronson French Roast Craft Instant Coffee 6 Pack",
+      "flavor": "·",
+      "price": "22 USD"
+    },
+    {
+      "id": 8,
+      "image": "src/assets/quality/download-30.webp",
+      "name": "Buena Vista Dark Roast Craft Instant Coffee 6 Pack",
+      "flavor": "·",
+      "price": "18 USD"
+    }
+  ],
+
+  "shopList": [
+    {
+      "img": "https://www.vervecoffee.com/cdn/shop/files/verve_cafes_web_MATEO-4_d816ae0f-62da-48ae-8987-f3d2bf03911b_800x.jpg?v=1654127779",
+      "name": "Arts District",
+      "add": "500 Mateo Street, Los Angeles, CA 90013",
+      "time": "Everyday: 7am – 6pm",
+      "phone": "310-385-9605"
+    },
+    {
+      "img": "https://www.vervecoffee.com/cdn/shop/files/MELROSE_2__11_800x.jpg?v=1728325165",
+      "name": "Melrose Avenue",
+      "add": "8925 Melrose Avenue, Los Angeles, CA 90069",
+      "time": "Everyday: 7am – 6pm",
+      "phone": "323-424-7008"
+    },
+    {
+      "img": "https://www.vervecoffee.com/cdn/shop/files/patio1_800x.jpg?v=1654116155",
+      "name": "Beverly Hills",
+      "add": "8051 W. 3rd St, Los Angeles, CA 90048",
+      "time": "Everyday: 7am – 6pm",
+      "phone": "424-370-0321"
+    },
+    {
+      "img": "https://www.vervecoffee.com/cdn/shop/files/Manhattan_46_800x.jpg?v=1654116183",
+      "name": "Manhattan Beach",
+      "add": "451 Manhattan Beach Blvd, Suite 451B, Manhattan Beach, CA 90266",
+      "time": "Everyday: 7am – 6pm",
+      "phone": "310-385-9605"
+    },
+    {
+      "img": "https://www.vervecoffee.com/cdn/shop/files/sprig_1_800x.png?v=1654116182",
+      "name": "SPRING STREET",
+      "add": "closed",
+      "time": "....",
+      "phone": "...."
+    }
+  ],
+  "allProd": [
+    {
+      "id": 1,
+      "image": "https://www.vervecoffee.com/cdn/shop/files/Sermon-12oz-Silo.png?v=1737402021",
+      "name": "Sermon",
+      "flavor": "Sweet & Balanced",
+      "price": "22 USD"
+    },
+    {
+      "id": 2,
+      "image": "https://www.vervecoffee.com/cdn/shop/files/Grateful-Dead-Cosmic-Ripple-12oz-Silo_720x.png?v=1771946714",
+      "name": "Cosmic Ripple",
+      "flavor": "Bright & Complex",
+      "price": "28 USD"
+    },
+    {
+      "id": 3,
+      "image": "https://www.vervecoffee.com/cdn/shop/files/Grateful-Dead-Morning-Brew-12oz-Silo_720x.png?v=1773376334",
+      "name": "Grateful",
+      "flavor": "Sweet & Fruity",
+      "price": "22 USD"
+    },
+    {
+      "id": 4,
+      "image": "https://www.vervecoffee.com/cdn/shop/files/Sermon-12oz-Silo.png?v=1737402021",
+      "name": "Sermon",
+      "flavor": "Sweet & Balanced",
+      "price": "22 USD"
+    },
+    {
+      "id": 5,
+      "image": "https://www.vervecoffee.com/cdn/shop/files/Streetlevel-12oz-Silo.png?v=1748900359",
+      "name": "Streetlevel",
+      "flavor": "Sweet & Balanced",
+      "price": "22 USD"
+    },
+    {
+      "id": 6,
+      "image": "https://www.vervecoffee.com/cdn/shop/files/Vancouver-12oz-Silo.png?v=1739550645",
+      "name": "Vancouver",
+      "flavor": "Smooth & Nutty",
+      "price": "22 USD"
+    },
+    {
+      "id": 7,
+      "image": "https://www.vervecoffee.com/cdn/shop/files/Wilder-2026-12oz-Silo_720x.png?v=1770058598",
+      "name": "Wilder",
+      "flavor": "Juicy & Bright",
+      "price": "22 USD"
+    },
+    {
+      "id": 8,
+      "image": "src/assets/new-arrival/download-2.webp",
+      "name": "Wilder Blend",
+      "flavor": "Juicy & Bright",
+      "price": "22 USD"
+    },
+    {
+      "id": 9,
+      "image": "https://www.vervecoffee.com/cdn/shop/files/Mujeres-De-Cafe-12oz-Silo_720x.png?v=1772645698",
+      "name": "Colombia Mujeres De Cafe",
+      "flavor": "RED APPLE · CARAMEL · MILK CHOCOLATE",
+      "price": "22 USD"
+    },
+    {
+      "id": 10,
+      "image": "https://www.vervecoffee.com/cdn/shop/files/Amparo-Maya-12oz-Silo_720x.png?v=1772145535",
+      "name": "Colombia Amparo Maya",
+      "flavor": "RED APPLE · PANELA · LIMEADE",
+      "price": "28 USD"
+    },
+    {
+      "id": 11,
+      "image": "https://www.vervecoffee.com/cdn/shop/files/Grateful-Dead-Cosmic-Ripple-12oz-Silo_720x.png?v=1771946714",
+      "name": "Cosmic Ripple Blend",
+      "flavor": "STARFRUIT · MEYER LEMON · BLACK TEA",
+      "price": "24 USD"
+    },
+    {
+      "id": 12,
+      "image": "https://www.vervecoffee.com/cdn/shop/files/Don-Cayito-Typica-Mejorado-White-Honey-Farmlevel-Reserve-150g-Silo_720x.png?v=1772145538",
+      "name": "Costa Rica Don Cayito Typica Mejorado White Honey Farmlevel Reserve",
+      "flavor": "STRAWBERRY · LEMON CUSTARD · BLACKBERRY",
+      "price": "34 USD"
+    },
+    {
+      "id": 13,
+      "image": "https://www.vervecoffee.com/cdn/shop/files/Bekele-Belaycho-Natural-12oz-Silo_720x.png?v=1772776329",
+      "name": "Ethiopia Bekele Belaycho Natural",
+      "flavor": "PINEAPPLE · STRAWBERRY · SWEET CREAM",
+      "price": "27.5 USD"
+    },
+    {
+      "id": 14,
+      "image": "https://www.vervecoffee.com/cdn/shop/files/Tuke-Yute-Anaerobic-Natural-12oz-Silo_720x.png?v=1772145510",
+      "name": "Ethiopia Tuke Yute Anaerobic Natural",
+      "flavor": "·",
+      "price": "27.5 USD"
+    },
+    {
+      "id": 15,
+      "image": "https://www.vervecoffee.com/cdn/shop/files/El-Portillo-Natural-Parainema-12oz-Silo_720x.png?v=1772145529",
+      "name": "Honduras El Portillo Natural Parainema",
+      "flavor": "·",
+      "price": "27.5 USD"
+    },
+    {
+      "id": 16,
+      "image": "https://www.vervecoffee.com/cdn/shop/files/Variety-Pack-Instant-Silo_720x.png?v=1739550403",
+      "name": "Craft Instant Coffee Variety 7 Pack",
+      "flavor": "·",
+      "price": "40 USD"
+    },
+    {
+      "id": 17,
+      "image": "https://www.vervecoffee.com/cdn/shop/files/Grateful-Dead-Morning-Brew-Instant-Silo_720x.png?v=1773376398",
+      "name": "Morning Brew Craft Instant Coffee 6 Pack",
+      "flavor": "·",
+      "price": "30 USD"
+    },
+    {
+      "id": 18,
+      "image": "https://www.vervecoffee.com/cdn/shop/files/Streetlevel-Instant-Silo_720x.png?v=1750788281",
+      "name": "Streetlevel Craft Instant Coffee 6 Pack",
+      "flavor": "·",
+      "price": "30 USD"
+    },
+    {
+      "id": 19,
+      "image": "https://www.vervecoffee.com/cdn/shop/files/Vancouver-Instant-Silo_533x.png?v=1739550359",
+      "name": "Vancouver Decaf Craft Instant Coffee 6 Pack",
+      "flavor": "·",
+      "price": "30 USD"
+    },
+    {
+      "id": 20,
+      "image": "https://www.vervecoffee.com/cdn/shop/files/Aster-Instant-Silo_720x.png?v=1737402355",
+      "name": "Aster Craft Instant Coffee 6 Pack",
+      "flavor": "·",
+      "price": "40 USD"
+    },
+    {
+      "id": 21,
+      "image": "https://www.vervecoffee.com/cdn/shop/files/Sermon-Instant-Silo_720x.png?v=1739550373",
+      "name": "Sermon Craft Instant Coffee 6 Packr",
+      "flavor": "·",
+      "price": "35 USD"
+    },
+    {
+      "id": 22,
+      "image": "https://www.vervecoffee.com/cdn/shop/files/Bronson-Instant-Silo_720x.png?v=1739550425",
+      "name": "Bronson French Roast Craft Instant Coffee 6 Pack",
+      "flavor": "·",
+      "price": "22 USD"
+    },
+    {
+      "id": 23,
+      "image": "https://www.vervecoffee.com/cdn/shop/files/Buena-Vista-Instant-Silo_720x.png?v=1739550417",
+      "name": "Buena Vista Dark Roast Craft Instant Coffee 6 Pack",
+      "flavor": "·",
+      "price": "18 USD"
+    }
+  ]
+}
