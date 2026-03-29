@@ -9,7 +9,7 @@ import LandingPage from "../pages/landing-page/LandingPage";
 import LocationPage from "../pages/location/LocationPage";
 import StoryPage from "../pages/story/StoryPage";
 import CollectionLayout from "./collectionLayout";
-import AllCoffee from "../pages/all-coffee/AllCoffee";
+import AllCoffee from "../pages/all-coffee/allCoffee";
 import LoginPage from "../pages/auth/login/loginPage";
 import RegisterPage from "../pages/auth/register/registerPage";
 
