@@ -6,9 +6,9 @@ const ListingProd = () => {
     getProducts1,
   );
   return (
-    <section className="bg-secondary mt-0 px-20 pb-24">
-      <div className="mx-auto grid w-full max-w-screen-2xl gap-12 grid-cols-[40%_60%] items-start">
-        <div className="pt-10 lg:pt-24">
+    <section className="bg-secondary mt-0 px-20 pb-20">
+      <div className="mx-auto grid w-full max-w-screen-2xl gap-12 sm:grid-cols-1 lg:grid-cols-[40%_60%] items-start">
+        <div className="pt-15 lg:pt-24">
           <h2 className="text-5xl font-medium uppercase leading-[1.02] text-primary">
             Our Top Hits
           </h2>

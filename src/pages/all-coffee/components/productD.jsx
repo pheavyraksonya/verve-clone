@@ -10,7 +10,7 @@ const ProductD = () => {
           All Coffee
         </h2>
 
-        <div className="mt-6 grid  gap-y-10  grid-cols-4 gap-x-8">
+        <div className="mt-6 grid  gap-y-10 justify-items-center  sm:grid-cols-1 sm: lg:grid-cols-4 gap-x-8">
           {/* mappping side*/}
           {products.map((items) => (
             <div key={items} className="shrink-0 w-70">

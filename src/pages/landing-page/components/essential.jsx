@@ -4,9 +4,9 @@ const Essential = () => {
   const { data: products } = useFetch((state) => state.Essential, getProducts3);
 
   return (
-    <section className="bg-secondary mt-0 px-20 pb-24">
-      <div className="mx-auto grid w-full max-w-screen-2xl gap-12 lg:grid-cols-[40%_60%] lg:items-start">
-        <div className="pt-10 lg:pt-24">
+    <section className="bg-secondary mt-0 px-20 pb-20">
+      <div className="mx-auto grid w-full max-w-screen-2xl gap-12 lg:grid-cols-[40%_60%] sm:grid-cols-1 lg:items-start">
+        <div className="pt-15 lg:pt-24">
           <h2 className="text-5xl font-medium uppercase leading-[1.02] text-primary">
             Essential Goods
           </h2>

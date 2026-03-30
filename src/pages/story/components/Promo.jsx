@@ -5,11 +5,11 @@ const Promo = () => {
     <section className="bg-secondary">
       <div className="pt-15 pb-15 max-w-6xl mx-auto">
         <div className="space-y-7 text-primary flex-col flex  items-center">
-          <h1 className="text-4xl font-semibold">
+          <h1 className="px-5 text-4xl font-semibold">
             Union of surf, music, and zest
           </h1>
 
-          <p className="text-center max-w-4xl mx-auto">
+          <p className="text-center max-w-4xl px-5 mx-auto">
             Verve Coffee Roasters was established in 2007 when Ryan O'Donovan
             and Colby Barr started a small local venture along the rugged
             California coast. Our roots are planted in Santa Cruz, where we

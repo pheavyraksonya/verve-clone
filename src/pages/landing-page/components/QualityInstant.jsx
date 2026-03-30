@@ -4,9 +4,9 @@ import { getProducts4 } from "../../../redux/feature/quality/QualitySlice";
 const QualityInstant = () => {
   const { data: products } = useFetch((state) => state.Quality, getProducts4);
   return (
-    <section className="bg-secondary mt-0 px-20 pb-24">
-      <div className="mx-auto grid w-full max-w-screen-2xl gap-12 lg:grid-cols-[40%_60%] lg:items-start">
-        <div className="pt-10 lg:pt-24">
+    <section className="bg-secondary mt-0 px-20 pb-20">
+      <div className="mx-auto grid w-full max-w-screen-2xl gap-12 lg:grid-cols-[40%_60%] sm:grid-cols-1 lg:items-start">
+        <div className="pt-15 lg:pt-24">
           <h2 className="text-5xl font-medium uppercase leading-[1.02] text-primary">
             CAFE QUALITY IN AN INSTANT
           </h2>
@@ -16,7 +16,7 @@ const QualityInstant = () => {
           </p>
           <button
             className="mt-10 inline-flex items-center justify-center rounded bg-primary 
-          spx-8 py-4 text-sm font-bold uppercase tracking-[0.2em] text-secondary transition hover:bg-primary/90"
+          px-8 py-4 text-sm font-bold uppercase tracking-[0.2em] text-secondary transition hover:bg-primary/90"
           >
             Shop Craft Instant
           </button>

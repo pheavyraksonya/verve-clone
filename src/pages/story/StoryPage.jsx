@@ -4,11 +4,11 @@ import Promo from "./components/Promo";
 
 const StoryPage = () => {
   return (
-    <>
+    <div className="overflow-hidden">
       <History />
       <InFo />
       <Promo />
-    </>
+    </div>
   );
 };
 

@@ -12,16 +12,16 @@ const locate = [
 const ListingShop = () => {
   const { data: products } = useFetch((state) => state.shopList, getProducts5);
   return (
-    <section className="bg-secondary">
+    <section className="bg-secondary overflow-hidden">
       <div className="mx-auto max-w-2xl px-8 py-10">
         <div className=" mx-auto space-y-5 text-center ">
           <h1 className="mb-5 text-4xl font-semibold">Verve Cafes</h1>
-          <div className="flex items-center justify-center mx-auto gap-7">
+          <div className="flex items-center justify-center overflow-x-auto mx-auto gap-7 flex-nowrap">
             {locate.map((items) => (
               <a
                 href={items.href}
                 key={items.id}
-                className="font-medium text-s hover:underline text-primary/70"
+                className="font-medium text-s hover:underline text-primary/70 whitespace-nowrap"
               >
                 {items.txt}
               </a>

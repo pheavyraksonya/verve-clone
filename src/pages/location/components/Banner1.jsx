@@ -3,9 +3,9 @@ import img4 from "../../../assets/banner04.jpeg";
 const Banner1 = () => {
   return (
     <section className="relative overflow-hidden  bg-secondary">
-      <div className="grid min-h-[64vh]  md:min-h-0 grid-cols-[50%_50%]">
+      <div className="grid min-h-[64vh]  md:min-h-0 lg:grid-cols-[50%_50%] sm:grid-cols-1">
         <div className="relative flex items-center bg-[#e7e6e3] py-12  px-16">
-          <div className="mx-auto w-full max-w-130 space-y-10">
+          <div className="mx-auto w-full max-w-120 space-y-10">
             <p className="text-sm font-medium uppercase tracking-[0.12em] text-primary/90">
               Craft Instant
             </p>

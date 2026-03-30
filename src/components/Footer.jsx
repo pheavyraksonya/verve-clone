@@ -26,7 +26,7 @@ const Footer = () => {
         </div>
         <hr className="text-primary mt-10" />
         <div className="mt-10">
-          <div className="grid gap-10 grid-cols-4">
+          <div className="grid gap-10 sm:grid-cols-1 lg:grid-cols-4">
             <div className="space-y-3">
               <h1 className="text-lg font-bold">BE THE FIRST TO KNOW!</h1>
               <p className="text-sm">
@@ -82,8 +82,8 @@ const Footer = () => {
           <hr className="mt-15 text-primary" />
         </div>
 
-        <div className="mt-5 space-y-5">
-          <div className="flex items-center gap-5 justify-start">
+        <div className="mt-15 space-y-5">
+          <div className="flex gap-5 flex-col items-start sm:flex-row sm:items-center">
             {rule.map((items) => (
               <div
                 key={items.id}
@@ -94,7 +94,7 @@ const Footer = () => {
               </div>
             ))}
           </div>
-          <div className="flex items-center justify-between ">
+          <div className="flex  items-center justify-between ">
             <div className="text-xs">
               <a href="/">© 2026 VERVE COFFEE ROASTERS, ALL RIGHTS RESERVED</a>
             </div>

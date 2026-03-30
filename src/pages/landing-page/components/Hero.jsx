@@ -3,8 +3,8 @@ import img from "../../../assets/verve-hero.jpeg";
 const Hero = () => {
   return (
     <section className="relative overflow-hidden  bg-secondary">
-      <div className="grid min-h-[64vh]  md:min-h-0 grid-cols-[40%_60%]">
-        <div className="relative flex items-center bg-[#e7e6e3] py-12  px-16">
+      <div className="grid min-h-[64vh]  md:min-h-0 lg:grid-cols-[40%_60%] sm:grid-cols-1">
+        <div className="relative flex items-center bg-[#e7e6e3] py-12  px-10">
           <div className="mx-auto w-full max-w-120 space-y-10">
             <p className="text-sm font-medium uppercase tracking-[0.12em] text-primary/90">
               Craft Instant
